@@ -9,3 +9,11 @@ Previously in 1_notmnist.ipynb, we created a pickle with formatted datasets for 
 
 The goal of this assignment is to progressively train deeper and more accurate models using TensorFlow.
 ### Achieved a Test Accuracy of 94.1% using single hidden layer and 94.2% using two hidden layers
+
+## Assignment 3
+Previously in 2_fullyconnected.ipynb, you trained a logistic regression and a neural network model.
+The goal of this assignment is to explore regularization techniques.
+
+ ### Achieved a Test Accuracy of 90.2% using two hidden layers using Loss Regularization, Dropout and Exponential Decay.
+ 
+ 
