@@ -16,4 +16,9 @@ The goal of this assignment is to explore regularization techniques.
 
  ### Achieved a Test Accuracy of 90.2% using two hidden layers using Loss Regularization, Dropout and Exponential Decay.
  
+## Assignment 4
+The goal of this assignment is make the neural network convolutional. 
+ 
+ ### Achieved a Test Accuracy of 90.3% using Dropout in CNN and 94.9% using Dropout, Regularization and Learning Rate Decay.
+ 
  
