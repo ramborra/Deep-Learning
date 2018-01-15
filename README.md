@@ -21,4 +21,7 @@ The goal of this assignment is make the neural network convolutional.
  
  ### Achieved a Test Accuracy of 90.3% using Dropout in CNN and 94.9% using Dropout, Regularization and Learning Rate Decay.
  
+ ## Assignment 5
+ The goal of this assignment is to train a Word2Vec skip-gram model over Text8 data.
  
+ ## Achieved a loss of 3.355148 for 100000 steps.
