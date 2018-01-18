@@ -25,3 +25,7 @@ The goal of this assignment is make the neural network convolutional.
  The goal of this assignment is to train a Word2Vec skip-gram model over Text8 data.
  
  ## Achieved a loss of 3.355148 for 100000 steps.
+ 
+ The goal of this assignment is to train a Word2Vec CBOW model over Text8 data.
+ 
+ ## Achieved a loss of 2.712092 for 100000 steps.
